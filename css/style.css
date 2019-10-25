@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
 @import "./superslides.css";
 * {
   margin: 0;
@@ -35,7 +35,7 @@ body {
 
 .slides-navigation a.prev {
   left: 20px;
-  background-image: url(../images/icons/previous.png);
+  background-image: url(../images/icons/prev.png);
 }
 
 .slides-navigation a.next {
