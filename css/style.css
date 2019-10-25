@@ -352,11 +352,11 @@ body {
   background-color: #000;
   position: relative;
   display: inline-block;
-  -webkit-transition: all 0.2s linear, 0.2s;
-  -moz-transition: all 0.2s linear, 0.2s;
-  -o-transition: all 0.2s linear, 0.2s;
-  -ms-transition: all 0.2s linear, 0.2s;
-  -transition: all 0.2s linear, 0.2s;
+  -webkit-transition: all 0.3s linear, 0.3s;
+  -moz-transition: all 0.3s linear, 0.3s;
+  -o-transition: all 0.3s linear, 0.3s;
+  -ms-transition: all 0.3s linear, 0.3s;
+  -transition: all 0.3s linear, 0.3s;
 }
 
 .items .imageOverlay {
@@ -367,11 +367,11 @@ body {
   left: 0px;
   top: 0px;
   opacity: 0;
-  -webkit-transition: all 0.2s linear, 1s;
-  -moz-transition: all 0.2s linear, 1s;
-  -o-transition: all 0.2s linear, 1s;
-  -ms-transition: all 0.2s linear, 1s;
-  -transition: all 0.2s linear, 1s;
+  -webkit-transition: all 0.3s linear, 1s;
+  -moz-transition: all 0.3s linear, 1s;
+  -o-transition: all 0.3s linear, 1s;
+  -ms-transition: all 0.3s linear, 1s;
+  -transition: all 0.3s linear, 1s;
 }
 
 .items .item:hover .imageOverlay {
@@ -535,7 +535,7 @@ body {
 }
 
 .navbar-toggler-icon {
-  background: url(images/icons/menu.png);
+  background: url(../images/icons/menu.png);
   background-size: 100%;
 }
 
